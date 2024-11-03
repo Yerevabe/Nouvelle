@@ -1,0 +1,239 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 400px;
+    background-image: url(maintenance.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size:cover;
+}
+
+header h1{
+    text-align: left;
+    margin: 18px;
+    color: rgb(241, 230, 230);
+}
+
+header nav ul{
+    padding: 30px;
+}
+
+header nav ul a{
+    padding: 6px;
+    margin: 8px;
+    color: rgb(249, 244, 244);
+}
+
+body{
+    background-color:blanchedalmond;
+}
+
+.Contenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+main section {
+    padding: 12px;
+    width: 255px;
+}
+
+main section .produit1{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(205, 231, 231);
+    border-radius: 60px;
+
+}
+
+main section .produit1 h2{
+    text-align: center;
+}
+
+main section .produit1 p{
+    text-align: center;
+}
+
+
+main section .produit1 img{
+    width: 200px;
+    height: 200px;
+      margin: 4px;
+      padding: 20px;
+        border-radius: 60px;
+        cursor: pointer;
+        transition: 400ms;
+}
+
+main section .produit1 img:hover{
+    transform: scale(1.10);
+}
+
+main section .produit2{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(205, 231, 231);
+    border-radius: 60px;
+
+}
+
+main section .produit2 img{
+    width: 200px;
+    height: 200px;
+      margin: 4px;
+      padding: 20px;
+        border-radius: 60px;
+        cursor: pointer;
+        transition: 400ms;
+}
+
+main section .produit2 img:hover{
+    transform: scale(1.10);
+}
+
+main section .produit2 h2{
+    text-align: center;
+}
+
+main section .produit2 p{
+    text-align: center;
+}
+
+main section .produit3{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(205, 231, 231);
+    border-radius: 60px;
+
+}
+
+main section .produit3 p{
+    text-align: center;
+}
+
+main section .produit3 img{
+    width: 200px;
+    height: 200px;
+      margin: 4px;
+      padding: 20px;
+        border-radius: 60px;
+        cursor: pointer;
+        transition: 400ms;
+}
+
+main section .produit3 img:hover{
+    transform: scale(1.10);
+}
+
+main section .produit3 h2{
+    text-align: center;
+}
+
+main section .produit3 p{
+    text-align: center;
+}
+
+main section .produit4{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(205, 231, 231);
+    border-radius: 60px;
+
+}
+
+main section .produit4 p{
+    text-align: center;
+}
+
+main section .produit4 img{
+    width: 200px;
+    height: 200px;
+      margin: 4px;
+      padding: 20px;
+        border-radius: 60px;
+        cursor: pointer;
+        transition: 400ms;
+}
+
+main section .produit4 img:hover{
+    transform: scale(1.10);
+}
+
+main section .produit4 h2{
+    text-align: center;
+}
+
+main section .produit4 p{
+    text-align: center;
+}
+
+main section .produit5{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(205, 231, 231);
+    border-radius: 60px;
+}
+
+main section .produit5 p{
+    text-align: center;
+}
+
+main section .produit5 img{
+    width: 200px;
+    height: 200px;
+      margin: 4px;
+      padding: 20px;
+        border-radius: 60px;
+        cursor: pointer;
+        transition: 400ms;
+}
+
+main section .produit5 img:hover{
+    transform: scale(1.10);
+}
+
+main section .produit5 h2{
+    text-align: center;
+}
+
+main section .produit5 p{
+    text-align: center;
+}
+
+main section .produit6{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(205, 231, 231);
+    border-radius: 60px;
+
+}
+
+main section .produit6 p{
+    text-align: center;
+}
+
+main section .produit6 img{
+    width: 200px;
+    height: 200px;
+      margin: 4px;
+      padding: 20px;
+        border-radius: 60px;
+        cursor: pointer;
+        transition: 400ms;
+}
+
+main section .produit6 img:hover{
+    transform: scale(1.10);
+}
+
+main section .produit6 h2{
+    text-align: center;
+}
+
+main section .produit6 p{
+    text-align: center;
+}
